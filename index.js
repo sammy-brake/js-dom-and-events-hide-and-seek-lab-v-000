@@ -12,7 +12,7 @@ function increaseRankBy(n) {
     let currentN = parseInt(rankedList[i]);
     let addN = parseInt(n);
     rankedList[i] = currentN + addN;
-  }
+  };
 };
 
 for (let i = 0; i < lis.length; i++) {
