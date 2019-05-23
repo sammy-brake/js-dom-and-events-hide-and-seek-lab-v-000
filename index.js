@@ -7,7 +7,7 @@ function nestedTarget(nested, target) {
 };
 
 function increaseRankBy(n) {
-  
+
 };
 
 function deepestChild() {
