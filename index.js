@@ -7,7 +7,5 @@ function nestedTarget(nested, target) {
 };
 
 function deepestChild() {
-  
+
 };
-
-
